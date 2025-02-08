@@ -123,5 +123,3 @@ function getWeatherData(city) {
 
 getWeatherData("Sousse");
 ```
-### 📸 Résultat
-![Description de l'image](C:\Users\YOOSURF\Desktop\All Files\CR\CR_Microservices\TP1\CR_TP1_SOA\Capture8.png)
